@@ -1,0 +1,154 @@
+body, html {
+    margin: 0
+}
+
+.my-header {
+    background-color: #3D405B;
+}
+
+.my-btn {
+    background-color: #304659 !important;
+    color: #fff !important;
+}
+
+.font-color {
+    color: #F2CC8F !important;
+}
+
+#top {
+    background: #E07A5F;
+}
+
+#top h1 {
+    color: #304659
+}
+
+#top p {
+    color: #3D405B
+}
+
+.top-text {
+    font-size: 80px
+}
+
+#goal {
+    background: #3D405B;
+}
+
+#goal h1 {
+    color: white;
+}
+
+#goal .text {
+    color: white;
+
+}
+
+#choose {
+    background: #81B29A;
+}
+
+#choose h1 {
+    color: #304659;
+}
+
+#choose p {
+    color: #3B5266;
+}
+
+#choose text {
+    color: #3D405B;
+}
+
+.my-box-1 {
+    background: #F2CC8F;
+    color: #3D405B;
+
+}
+
+
+.my-box-2 {
+    background: #E07A5F;
+    color: #3D405B;
+}
+
+.box {
+    position: relative;
+}
+
+.box-img-left {
+    position: absolute;
+    height: 200px;
+    left: -140px;
+}
+
+#events {
+    background: #F2CC8F;
+}
+
+#events h1 {
+    color: #3B5266;
+}
+
+#events p {
+    color: #3B5266;
+
+}
+
+.read-more {
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 25px;
+    letter-spacing: 0;
+    text-decoration: none;
+    color: #3B5266;
+}
+
+.read-more:hover {
+    cursor: pointer;
+}
+
+#contact {
+    background: #E07A5F;
+
+}
+
+.form-img {
+    z-index: 99;
+}
+
+.form {
+    width: 80%;
+    background: #F4F1DE;
+    padding: 20px 0;
+    margin-top: -7vh;
+}
+
+.form h2 {
+    color: #3B5266;
+}
+
+footer {
+    background: #E07A5F;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.font-color-2 {
+    color: #3D405B !important;
+}
+
+.copyright {
+    color: #F4F1DE;
+
+
+}
+
+@media screen and (max-width: 400px) {
+    .form {
+        width: 100%;
+
+    }
+}
